@@ -1,0 +1,44 @@
+[
+    {
+        "name": "house_price_prediction",
+        "language": "Jupyter Notebook",
+        "description": "Implementation of a neural network to predict house prices in the portuguese housing market using Keras.",
+        "repo": "https://github.com/helderpsilva/house_price_prediction",
+        "image_link": "https://images.unsplash.com/photo-1489370321024-e0410ad08da4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aG91c2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "bike_sharing_regression",
+        "language": "R",
+        "description": "EDA and regression model to predict bike rentals.",
+        "repo": "https://github.com/helderpsilva/bike_sharing_regression",
+        "image_link": "https://images.unsplash.com/photo-1604413800780-7164d0ced42f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlrZSUyMHNoYXJpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "tictactoe_reinforcement_learning",
+        "language": "Python",
+        "description": "Implementation of a reinforcement learning agent in python for playing the game Tic-Tac-Toe.",
+        "repo": "https://github.com/helderpsilva/tictactoe_reinforcement_learning",
+        "image_link": "https://images.unsplash.com/photo-1602632003094-0494b73b7c4a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGljJTIwdGFjJTIwdG9lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "perceptron",
+        "language": "Python",
+        "description": "Implementation of a perceptron algorithm in python from scratch.",
+        "repo": "https://github.com/helderpsilva/perceptron",
+        "image_link": "https://images.unsplash.com/photo-1592496001020-d31bd830651f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmV1cm9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "mall_customers_clustering",
+        "language": "R",
+        "description": "",
+        "repo": "https://github.com/helderpsilva/mall_customers_clustering",
+        "image_link": "https://images.unsplash.com/photo-1533481405265-e9ce0c044abb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFsbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "mushroom_classification",
+        "language": "R",
+        "description": "",
+        "repo": "https://github.com/helderpsilva/mushroom_classification",
+        "image_link": "https://images.unsplash.com/photo-1505820013142-f86a3439c5b2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaHJvb218ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+]
